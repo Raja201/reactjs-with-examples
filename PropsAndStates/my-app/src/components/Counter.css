@@ -1,0 +1,54 @@
+.Area {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px auto;
+    width: 100px;
+    padding: 10px;
+    border: 2px solid #444;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+  }
+  
+  button {
+    font-size: 1.5rem;
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .increment {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .increment:hover {
+    background-color: #45a049;
+  }
+  
+  .decrement {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .decrement:hover {
+    background-color: #da190b;
+  }
+  
+  button:nth-of-type(3) {
+    background-color: #555;
+    color: white;
+  }
+  
+  button:nth-of-type(3):hover {
+    background-color: #333;
+  }
+  
+  div {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
