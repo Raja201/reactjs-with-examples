@@ -28,12 +28,12 @@ Basics1/
 
 1. **Clone the repository:**
 
-```bash
 git clone https://github.com/Raja201/reactjs-with-examples.git
 cd reactjs-with-examples/Basics1
 
 
 Install dependencies:
+
 npm install
 
 
